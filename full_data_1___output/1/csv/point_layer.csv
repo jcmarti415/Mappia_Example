@@ -1,0 +1,392 @@
+X,Y,word,country_predicted,file_name,admin1,lat,lon,country_code3,geonameid,place_name,feature_class,feature_code,icon_url
+-80.19366,25.77427,MIAMI,USA,"12_August_1999,_Colombia_Kidna",Florida,"25.77427","-80.19366",USA,"4164138",Miami,P,PPLA2,./0.png
+-76.5225,3.43722,CALI,COL,"12_August_1999,_Colombia_Kidna",Valle del Cauca,"3.43722","-76.5225",COL,"3687925",Cali,P,PPLA,./0.png
+-74.78132,10.96854,BARRANQUILLA,COL,"12_August_1999,_Colombia_Kidna",Atlántico,"10.96854","-74.78132",COL,"3689147",Barranquilla,P,PPLA,./0.png
+-74.08175,4.60971,BOGOTA,COL,"12_August_1999,_Colombia_Kidna",Bogota D.C.,"4.60971","-74.08175",COL,"3688689",Bogotá,P,PPLC,./0.png
+-64.98348,18.34829,UNITED STATES,VIR,"12_August_1999,_Colombia_Kidna",NA,"18.34829","-64.98348",VIR,"4796775",Virgin Islands of the United States,A,PCLD,./0.png
+-4,40,SPAIN,ESP,"12_August_1999,_Colombia_Kidna",NA,"40","-4",ESP,"2510769",Kingdom of Spain,A,PCLI,./0.png
+-66,8,VENEZUELA,VEN,"12_August_1999,_Colombia_Kidna",NA,"8","-66",VEN,"3625428",Bolivarian Republic of Venezuela,A,PCLI,./0.png
+-78.25,-1.25,ECUADOR,ECU,"12_August_1999,_Colombia_Kidna",NA,"-1.25","-78.25",ECU,"3658394",Republic of Ecuador,A,PCLI,./0.png
+-71,-30,CHILE,CHL,"12_August_1999,_Colombia_Kidna",NA,"-30","-71",CHL,"3895114",Republic of Chile,A,PCLI,./0.png
+8.01427,47.00016,SWITZERLAND,CHE,"12_August_1999,_Colombia_Kidna",NA,"47.00016","8.01427",CHE,"2658434",Switzerland,A,PCLI,./0.png
+-87.90374,45.7869,NORWAY,USA,"12_August_1999,_Colombia_Kidna",Michigan,"45.7869","-87.90374",USA,"5004016",Norway,P,PPL,./0.png
+-80,9,PANAMA,PAN,"12_August_1999,_Colombia_Kidna",NA,"9","-80",PAN,"3703430",Republic of Panama,A,PCLI,./0.png
+-93.97053,44.88413,GERMANY,USA,"12_August_1999,_Colombia_Kidna",Minnesota,"44.88413","-93.97053",USA,"5039086",New Germany,P,PPL,./0.png
+-74.78132,10.96854,BARRANQUILLA,COL,"12_August_1999,_Colombia_Kidna",Atlántico,"10.96854","-74.78132",COL,"3689147",Barranquilla,P,PPLA,./0.png
+-74.08175,4.60971,BOGOTA,COL,"12_August_1999,_Colombia_Kidna",Bogota D.C.,"4.60971","-74.08175",COL,"3688689",Bogotá,P,PPLC,./0.png
+-64.98348,18.34829,UNITED STATES,VIR,"12_August_1999,_Colombia_Kidna",NA,"18.34829","-64.98348",VIR,"4796775",Virgin Islands of the United States,A,PCLD,./0.png
+-64.98348,18.34829,UNITED STATES,VIR,"12_August_1999,_Colombia_Kidna",NA,"18.34829","-64.98348",VIR,"4796775",Virgin Islands of the United States,A,PCLD,./0.png
+-74.08175,4.60971,BOGOTA,COL,"12_August_1999,_Colombia_Kidna",Bogota D.C.,"4.60971","-74.08175",COL,"3688689",Bogotá,P,PPLC,./0.png
+-119.63379,39.31297,PACIFIC COAST,USA,"12_August_1999,_Colombia_Kidna",Nevada,"39.31297","-119.63379",USA,"5514429",Virginia City Cemeteries,S,CMTY,./0.png
+-74.08175,4.60971,BOGOTA,COL,"12_August_1999,_Colombia_Kidna",Bogota D.C.,"4.60971","-74.08175",COL,"3688689",Bogotá,P,PPLC,./0.png
+-74.08175,4.60971,BOGOTA,COL,79_-_711_FARC_Offensive_Fail,Bogota D.C.,"4.60971","-74.08175",COL,"3688689",Bogotá,P,PPLC,./0.png
+-88.59444,15.72778,PUERTO,GTM,79_-_711_FARC_Offensive_Fail,Izabal,"15.72778","-88.59444",GTM,"3591062",Puerto Barrios,P,PPLA,./0.png
+-72.07462,2.55368,SAN JOSE DEL GUAVIARE,COL,79_-_711_FARC_Offensive_Fail,Guaviare,"2.55368","-72.07462",COL,"6851384",San José del Guaviare,A,ADM2,./0.png
+-74.08175,4.60971,BOGOTA,COL,79_-_711_FARC_Offensive_Fail,Bogota D.C.,"4.60971","-74.08175",COL,"3688689",Bogotá,P,PPLC,./0.png
+-74.08175,4.60971,BOGOTA,COL,79_-_711_FARC_Offensive_Fail,Bogota D.C.,"4.60971","-74.08175",COL,"3688689",Bogotá,P,PPLC,./0.png
+-74.08175,4.60971,BOGOTA,COL,Ambassador_Delivers_Segovia_Ma,Bogota D.C.,"4.60971","-74.08175",COL,"3688689",Bogotá,P,PPLC,./0.png
+-120.50147,47.50012,WASHINGTON,USA,Ambassador_Meets_with_Defense_,Washington,"47.50012","-120.50147",USA,"5815135",Washington,A,ADM1,./0.png
+-120.50147,47.50012,WASHINGTON,USA,Ambassador_Meets_with_Defense_,Washington,"47.50012","-120.50147",USA,"5815135",Washington,A,ADM1,./0.png
+-120.50147,47.50012,WASHINGTON,USA,Ambassador_Meets_with_Defense_,Washington,"47.50012","-120.50147",USA,"5815135",Washington,A,ADM1,./0.png
+-75.89905,5.66974,ANDES,COL,Ambassador_Meets_with_Defense_,Antioquia,"5.66974","-75.89905",COL,"3689900",Andes,A,ADM2,./0.png
+-120.50147,47.50012,WASHINGTON,USA,Ambassador_Meets_with_Defense_,Washington,"47.50012","-120.50147",USA,"5815135",Washington,A,ADM1,./0.png
+-120.50147,47.50012,WASHINGTON,USA,Ambassador_Meets_with_Defense_,Washington,"47.50012","-120.50147",USA,"5815135",Washington,A,ADM1,./0.png
+-120.50147,47.50012,WASHINGTON,USA,Ambassador_Meets_with_Defense_,Washington,"47.50012","-120.50147",USA,"5815135",Washington,A,ADM1,./0.png
+-72.66648,41.66704,CONNECTICUT,USA,Ambassador_Meets_with_Defense_,Connecticut,"41.66704","-72.66648",USA,"4831725",Connecticut,A,ADM1,./0.png
+-99.25061,31.25044,TEXAS,USA,Ambassador_Meets_with_Defense_,Texas,"31.25044","-99.25061",USA,"4736286",Texas,A,ADM1,./0.png
+-72.66648,41.66704,CONNECTICUT,USA,Ambassador_Meets_with_Defense_,Connecticut,"41.66704","-72.66648",USA,"4831725",Connecticut,A,ADM1,./0.png
+-80.19366,25.77427,MIAMI,USA,AMCITS_[Excised]_Kidnapped_in,Florida,"25.77427","-80.19366",USA,"4164138",Miami,P,PPLA2,./0.png
+-76.5225,3.43722,CALI,COL,AMCITS_[Excised]_Kidnapped_in,Valle del Cauca,"3.43722","-76.5225",COL,"3687925",Cali,P,PPLA,./0.png
+-74.08175,4.60971,BOGOTA,COL,AMCITS_[Excised]_Kidnapped_in,Bogota D.C.,"4.60971","-74.08175",COL,"3688689",Bogotá,P,PPLC,./0.png
+-75.69812,45.41117,OTTAWA,CAN,AMCITS_[Excised]_Kidnapped_in,Ontario,"45.41117","-75.69812",CAN,"6094817",Ottawa,P,PPLC,./0.png
+-76.5225,3.43722,CALI,COL,AMCITS_[Excised]_Kidnapped_in,Valle del Cauca,"3.43722","-76.5225",COL,"3687925",Cali,P,PPLA,./0.png
+-80.19366,25.77427,MIAMI,USA,AMCITS_[Excised]_Kidnapped_in,Florida,"25.77427","-80.19366",USA,"4164138",Miami,P,PPLA2,./0.png
+-0.30864,51.49227,LONDON,GBR,Amnesty_International_Says_Sit,England,"51.49227","-0.30864",GBR,"11591955",London,L,RGN,./0.png
+-0.30864,51.49227,LONDON,GBR,Amnesty_International_Says_Sit,England,"51.49227","-0.30864",GBR,"11591955",London,L,RGN,./0.png
+-75.58333,6.25,MEDELLIN,COL,Amnesty_International_Says_Sit,Antioquia,"6.25","-75.58333",COL,"3674954",Medellín,A,ADM2,./0.png
+-74.08175,4.60971,BOGOTA,COL,Amnesty_International_Says_Sit,Bogota D.C.,"4.60971","-74.08175",COL,"3688689",Bogotá,P,PPLC,./0.png
+-75.58333,6.25,MEDELLIN,COL,Amnesty_International_Says_Sit,Antioquia,"6.25","-75.58333",COL,"3674954",Medellín,A,ADM2,./0.png
+-74.08175,4.60971,BOGOTA,COL,Army_Officer_Convicted_in_Sego,Bogota D.C.,"4.60971","-74.08175",COL,"3688689",Bogotá,P,PPLC,./0.png
+-75.58333,6.25,MEDELLIN,COL,Army_Officer_Convicted_in_Sego,Antioquia,"6.25","-75.58333",COL,"3674954",Medellín,A,ADM2,./0.png
+-75.58333,6.25,MEDELLIN,COL,Army_Officer_Convicted_in_Sego,Antioquia,"6.25","-75.58333",COL,"3674954",Medellín,A,ADM2,./0.png
+-75.58333,6.25,MEDELLIN,COL,Army_Officer_Convicted_in_Sego,Antioquia,"6.25","-75.58333",COL,"3674954",Medellín,A,ADM2,./0.png
+-120.50147,47.50012,WASHINGTON,USA,AS_Beers_Meets_with_MOD_and_A,Washington,"47.50012","-120.50147",USA,"5815135",Washington,A,ADM1,./0.png
+-120.50147,47.50012,WASHINGTON,USA,AS_Beers_Meets_with_MOD_and_A,Washington,"47.50012","-120.50147",USA,"5815135",Washington,A,ADM1,./0.png
+-120.50147,47.50012,WASHINGTON,USA,AS_Beers_Meets_with_MOD_and_A,Washington,"47.50012","-120.50147",USA,"5815135",Washington,A,ADM1,./0.png
+-86.06888,40.75365,PERU,USA,AS_Beers_Meets_with_MOD_and_A,Indiana,"40.75365","-86.06888",USA,"4924733",Peru,P,PPLA2,./0.png
+-120.50147,47.50012,WASHINGTON,USA,AS_Beers_Meets_with_MOD_and_A,Washington,"47.50012","-120.50147",USA,"5815135",Washington,A,ADM1,./0.png
+-74.08175,4.60971,BOGOTA,COL,AS_Beers_Meets_with_MOD_and_A,Bogota D.C.,"4.60971","-74.08175",COL,"3688689",Bogotá,P,PPLC,./0.png
+20.91667,42.58333,KOSOVO,XKX,AS_Koh's_Meeting_with_Colombi,NA,"42.58333","20.91667",XKX,"831053",Republic of Kosovo,A,PCLI,./0.png
+-75.58333,6.25,MEDELLIN,COL,AS_Koh's_Meeting_with_Colombi,Antioquia,"6.25","-75.58333",COL,"3674954",Medellín,A,ADM2,./0.png
+-120.50147,47.50012,WASHINGTON,USA,AS_Koh_and_Defense_Minister_D,Washington,"47.50012","-120.50147",USA,"5815135",Washington,A,ADM1,./0.png
+-120.50147,47.50012,WASHINGTON,USA,AS_Koh_and_Defense_Minister_D,Washington,"47.50012","-120.50147",USA,"5815135",Washington,A,ADM1,./0.png
+-120.50147,47.50012,WASHINGTON,USA,AS_Koh_and_Defense_Minister_D,Washington,"47.50012","-120.50147",USA,"5815135",Washington,A,ADM1,./0.png
+-74.08175,4.60971,BOGOTA,COL,AS_Koh_and_Oil_Company_Execs.,Bogota D.C.,"4.60971","-74.08175",COL,"3688689",Bogotá,P,PPLC,./0.png
+-0.70312,52.16045,ENGLAND,GBR,AS_Koh_and_Oil_Company_Execs.,England,"52.16045","-0.70312",GBR,"6269131",England,A,ADM1,./0.png
+-0.30864,51.49227,LONDON,GBR,AS_Koh_and_Oil_Company_Execs.,England,"51.49227","-0.30864",GBR,"11591955",London,L,RGN,./0.png
+-102,23,MEXICO,MEX,AS_Koh_and_Oil_Company_Execs.,NA,"23","-102",MEX,"3996063",Mexico,A,PCLI,./0.png
+-78.25,-1.25,ECUADOR,ECU,AS_Koh_and_Oil_Company_Execs.,NA,"-1.25","-78.25",ECU,"3658394",Republic of Ecuador,A,PCLI,./0.png
+6.11044,46.19673,GENEVA,CHE,AS_Koh_Meeting_with_President,Geneva,"46.19673","6.11044",CHE,"2660645",Genève,A,ADM1,./0.png
+6.11044,46.19673,GENEVA,CHE,AS_Koh_Meeting_with_President,Geneva,"46.19673","6.11044",CHE,"2660645",Genève,A,ADM1,./0.png
+-79.5,22.0,CUBA,CUB,AS_Koh_Meeting_with_President,NA,"22","-79.5",CUB,"3562981",Republic of Cuba,A,PCLI,./0.png
+-79.5,22.0,CUBA,CUB,AS_Koh_Meeting_with_President,NA,"22","-79.5",CUB,"3562981",Republic of Cuba,A,PCLI,./0.png
+-75.58333,6.25,MEDELLIN,COL,AS_Koh_Meeting_with_President,Antioquia,"6.25","-75.58333",COL,"3674954",Medellín,A,ADM2,./0.png
+-100.89676,29.36273,DEL RIO,USA,AS_Koh_Meeting_with_President,Texas,"29.36273","-100.89676",USA,"5520076",Del Rio,P,PPLA2,./0.png
+6.11044,46.19673,GENEVA,CHE,AS_Koh_Meeting_with_President,Geneva,"46.19673","6.11044",CHE,"2660645",Genève,A,ADM1,./0.png
+6.11044,46.19673,GENEVA,CHE,AS_Koh_Meeting_with_President,Geneva,"46.19673","6.11044",CHE,"2660645",Genève,A,ADM1,./0.png
+6.11044,46.19673,GENEVA,CHE,AS_Koh_Meeting_with_President,Geneva,"46.19673","6.11044",CHE,"2660645",Genève,A,ADM1,./0.png
+6.11044,46.19673,GENEVA,CHE,AS_Koh_Meeting_with_President,Geneva,"46.19673","6.11044",CHE,"2660645",Genève,A,ADM1,./0.png
+-79.5,22.0,CUBA,CUB,AS_Koh_Meeting_with_President,NA,"22","-79.5",CUB,"3562981",Republic of Cuba,A,PCLI,./0.png
+-79.5,22.0,CUBA,CUB,AS_Koh_Meeting_with_President,NA,"22","-79.5",CUB,"3562981",Republic of Cuba,A,PCLI,./0.png
+-73.4915,4.07424,VILLAVICENCIO,COL,Brig._General_Uscátegui_Detain,Meta,"4.07424","-73.4915",COL,"3665901",Villavicencio,A,ADM2,./0.png
+31.8639,-17.81215,NORTH BOGOTA,ZWE,Brig._General_Uscátegui_Detain,Mashonaland East,"-17.81215","31.8639",ZWE,"894949",Bogoto North,S,FRM,./0.png
+-64.98348,18.34829,UNITED STATES,VIR,"Carlos_Castaño_Tells_USG,_I_A",NA,"18.34829","-64.98348",VIR,"4796775",Virgin Islands of the United States,A,PCLD,./0.png
+-78.25,-1.25,ECUADOR,ECU,Colombia's_Putumayo_A_Coca_Ec,NA,"-1.25","-78.25",ECU,"3658394",Republic of Ecuador,A,PCLI,./0.png
+-76.34227,0.46155,PUERTO ASIS,COL,Colombia's_Putumayo_A_Coca_Ec,Putumayo,"0.46155","-76.34227",COL,"9172318",Puerto Asís,A,ADM2,./0.png
+-88.59444,15.72778,PUERTO,GTM,Colombia's_Putumayo_A_Coca_Ec,Izabal,"15.72778","-88.59444",GTM,"3591062",Puerto Barrios,P,PPLA,./0.png
+-88.59444,15.72778,PUERTO,GTM,Colombia's_Putumayo_A_Coca_Ec,Izabal,"15.72778","-88.59444",GTM,"3591062",Puerto Barrios,P,PPLA,./0.png
+-4.53195,41.21825,COCA,ESP,Colombia's_Putumayo_A_Coca_Ec,Castille and León,"41.21825","-4.53195",ESP,"6360797",Coca,A,ADM3,./0.png
+-88.59444,15.72778,PUERTO,GTM,Colombia's_Putumayo_A_Coca_Ec,Izabal,"15.72778","-88.59444",GTM,"3591062",Puerto Barrios,P,PPLA,./0.png
+-76.34227,0.46155,PUERTO ASIS,COL,Colombia's_Putumayo_A_Coca_Ec,Putumayo,"0.46155","-76.34227",COL,"9172318",Puerto Asís,A,ADM2,./0.png
+-88.59444,15.72778,PUERTO,GTM,Colombia's_Putumayo_A_Coca_Ec,Izabal,"15.72778","-88.59444",GTM,"3591062",Puerto Barrios,P,PPLA,./0.png
+-88.59444,15.72778,PUERTO,GTM,Colombia's_Putumayo_A_Coca_Ec,Izabal,"15.72778","-88.59444",GTM,"3591062",Puerto Barrios,P,PPLA,./0.png
+-76.34227,0.46155,PUERTO ASIS,COL,Colombia's_Putumayo_A_Coca_Ec,Putumayo,"0.46155","-76.34227",COL,"9172318",Puerto Asís,A,ADM2,./0.png
+-88.59444,15.72778,PUERTO,GTM,Colombia's_Putumayo_A_Coca_Ec,Izabal,"15.72778","-88.59444",GTM,"3591062",Puerto Barrios,P,PPLA,./0.png
+-76.34227,0.46155,PUERTO ASIS,COL,Colombian_Army_24th_Brigade_[E,Putumayo,"0.46155","-76.34227",COL,"9172318",Puerto Asís,A,ADM2,./0.png
+-80,9,PANAMA,PAN,Colombian_Army_24th_Brigade_[E,NA,"9","-80",PAN,"3703430",Republic of Panama,A,PCLI,./0.png
+-78.25,-1.25,ECUADOR,ECU,Colombian_Army_24th_Brigade_[E,NA,"-1.25","-78.25",ECU,"3658394",Republic of Ecuador,A,PCLI,./0.png
+-88.59444,15.72778,PUERTO,GTM,Colombian_Army_24th_Brigade_[E,Izabal,"15.72778","-88.59444",GTM,"3591062",Puerto Barrios,P,PPLA,./0.png
+-88.59444,15.72778,PUERTO,GTM,Colombian_Army_24th_Brigade_[E,Izabal,"15.72778","-88.59444",GTM,"3591062",Puerto Barrios,P,PPLA,./0.png
+-88.59444,15.72778,PUERTO,GTM,Colombian_Army_24th_Brigade_[E,Izabal,"15.72778","-88.59444",GTM,"3591062",Puerto Barrios,P,PPLA,./0.png
+-81.44122,41.10145,TOWN SQUARE,USA,Colombian_Army_24th_Brigade_[E,Ohio,"41.10145","-81.44122",USA,"5173629",Tallmadge Town Square Historic District,L,PRK,./0.png
+-4,40,SPAIN,ESP,Colombian_Peace_Talks_Deeper_,NA,"40","-4",ESP,"2510769",Kingdom of Spain,A,PCLI,./0.png
+18.0,59.5,STOCKHOLM,SWE,Colombian_Peace_Talks_Deeper_,Stockholm,"59.5","18",SWE,"2673722",Stockholm County,A,ADM1,./0.png
+15,62,SWEDEN,SWE,Colombian_Peace_Talks_Deeper_,NA,"62","15",SWE,"2661886",Kingdom of Sweden,A,PCLI,./0.png
+-88.59444,15.72778,PUERTO,GTM,Colombian_Police_Raid_Paramili,Izabal,"15.72778","-88.59444",GTM,"3591062",Puerto Barrios,P,PPLA,./0.png
+-120.50147,47.50012,WASHINGTON,USA,Colombia_EUM_Feb._1999_MOD_Hu,Washington,"47.50012","-120.50147",USA,"5815135",Washington,A,ADM1,./0.png
+-120.50147,47.50012,WASHINGTON,USA,Colombia_EUM_Feb._1999_MOD_Hu,Washington,"47.50012","-120.50147",USA,"5815135",Washington,A,ADM1,./0.png
+-120.50147,47.50012,WASHINGTON,USA,Colombia_EUM_Feb._1999_MOD_Hu,Washington,"47.50012","-120.50147",USA,"5815135",Washington,A,ADM1,./0.png
+-120.50147,47.50012,WASHINGTON,USA,Colombia_EUM_Feb._1999_MOD_Hu,Washington,"47.50012","-120.50147",USA,"5815135",Washington,A,ADM1,./0.png
+-120.50147,47.50012,WASHINGTON,USA,Colombia_EUM_Feb._1999_MOD_Hu,Washington,"47.50012","-120.50147",USA,"5815135",Washington,A,ADM1,./0.png
+-120.50147,47.50012,WASHINGTON,USA,Colombia_EUM_Feb._1999_MOD_Hu,Washington,"47.50012","-120.50147",USA,"5815135",Washington,A,ADM1,./0.png
+-120.50147,47.50012,WASHINGTON,USA,Colombia_EUM_Feb._1999_MOD_Hu,Washington,"47.50012","-120.50147",USA,"5815135",Washington,A,ADM1,./0.png
+-120.50147,47.50012,WASHINGTON,USA,Colombia_EUM_Feb._1999_MOD_Hu,Washington,"47.50012","-120.50147",USA,"5815135",Washington,A,ADM1,./0.png
+-75.68111,4.53389,ARMENIA,COL,Colombia_Scene_Setter_for_Vis,Quindío,"4.53389","-75.68111",COL,"3689560",Armenia,P,PPLA,./0.png
+-64.98348,18.34829,UNITED STATES,VIR,Colombia_Scene_Setter_for_Vis,NA,"18.34829","-64.98348",VIR,"4796775",Virgin Islands of the United States,A,PCLD,./0.png
+8.01427,47.00016,SWITZERLAND,CHE,Colombia_Scene_Setter_for_Vis,NA,"47.00016","8.01427",CHE,"2658434",Switzerland,A,PCLI,./0.png
+-120.50147,47.50012,WASHINGTON,USA,Colombia_Scene_Setter_for_Vis,Washington,"47.50012","-120.50147",USA,"5815135",Washington,A,ADM1,./0.png
+-74.11805,42.80019,NORTHEAST,USA,Colombia_Scene_Setter_for_Vis,NA,"42.80019","-74.11805",USA,"11887749",Northeast,L,RGN,./0.png
+-80.19366,25.77427,MIAMI,USA,Colombia_Scene_Setter_for_Vis,Florida,"25.77427","-80.19366",USA,"4164138",Miami,P,PPLA2,./0.png
+-81.78163,24.55524,KEY WEST,USA,Colombia_Scene_Setter_for_Vis,Florida,"24.55524","-81.78163",USA,"4160812",Key West,P,PPLA2,./0.png
+-100.54688,46.07323,AMERICA,NA,Colombia_Scene_Setter_for_Vis,NA,"46.07323","-100.54688",NA,"6255149",North America,L,CONT,./0.png
+8.01427,47.00016,SWITZERLAND,CHE,Colombia_Scene_Setter_for_Vis,NA,"47.00016","8.01427",CHE,"2658434",Switzerland,A,PCLI,./0.png
+-74.08175,4.60971,BOGOTA,COL,Colombia_Scene_Setter_for_Vis,Bogota D.C.,"4.60971","-74.08175",COL,"3688689",Bogotá,P,PPLC,./0.png
+-75.58333,6.25,MEDELLIN,COL,Colombia_Scene_Setter_for_Vis,Antioquia,"6.25","-75.58333",COL,"3674954",Medellín,A,ADM2,./0.png
+-74.08175,4.60971,BOGOTA,COL,Colombia_Scene_Setter_for_Vis,Bogota D.C.,"4.60971","-74.08175",COL,"3688689",Bogotá,P,PPLC,./0.png
+-71,-30,CHILE,CHL,Colombia_Scene_Setter_for_Vis,NA,"-30","-71",CHL,"3895114",Republic of Chile,A,PCLI,./0.png
+-64.98348,18.34829,UNITED STATES’,VIR,Colombia_Scene_Setter_for_Vis,NA,"18.34829","-64.98348",VIR,"4796775",Virgin Islands of the United States,A,PCLD,./0.png
+-117.98951,34.0314,LATIN AMERICA,USA,Colombia_Scene_Setter_for_Vis,California,"34.0314","-117.98951",USA,"5365452",Latin America Bible Institute,S,SCH,./0.png
+-64.98348,18.34829,UNITED STATES,VIR,Colombia_Set_for_April_20_Peac,NA,"18.34829","-64.98348",VIR,"4796775",Virgin Islands of the United States,A,PCLD,./0.png
+-74.08175,4.60971,BOGOTA,COL,Colombia_Set_for_April_20_Peac,Bogota D.C.,"4.60971","-74.08175",COL,"3688689",Bogotá,P,PPLC,./0.png
+-80.19366,25.77427,MIAMI,USA,Deputy_Army_Commander_Labels_S,Florida,"25.77427","-80.19366",USA,"4164138",Miami,P,PPLA2,./0.png
+-80.19366,25.77427,MIAMI,USA,Deputy_Army_Commander_Labels_S,Florida,"25.77427","-80.19366",USA,"4164138",Miami,P,PPLA2,./0.png
+-80.19366,25.77427,MIAMI,USA,Deputy_Army_Commander_Labels_S,Florida,"25.77427","-80.19366",USA,"4164138",Miami,P,PPLA2,./0.png
+-120.50147,47.50012,WASHINGTON,USA,Deputy_Army_Commander_Labels_S,Washington,"47.50012","-120.50147",USA,"5815135",Washington,A,ADM1,./0.png
+-120.50147,47.50012,WASHINGTON,USA,Deputy_Army_Commander_Labels_S,Washington,"47.50012","-120.50147",USA,"5815135",Washington,A,ADM1,./0.png
+-80.19366,25.77427,MIAMI,USA,Deputy_Army_Commander_Labels_S,Florida,"25.77427","-80.19366",USA,"4164138",Miami,P,PPLA2,./0.png
+-76.5225,3.43722,CALI,COL,ELN_Stages_Mass_Kidnapping_o,Valle del Cauca,"3.43722","-76.5225",COL,"3687925",Cali,P,PPLA,./0.png
+-76.5225,3.43722,CALI,COL,ELN_Stages_Mass_Kidnapping_o,Valle del Cauca,"3.43722","-76.5225",COL,"3687925",Cali,P,PPLA,./0.png
+-113.64258,60.10867,CANADA,CAN,ELN_Stages_Mass_Kidnapping_o,NA,"60.10867","-113.64258",CAN,"6251999",Canada,A,PCLI,./0.png
+-76.5225,3.43722,CALI,COL,ELN_Stages_Mass_Kidnapping_o,Valle del Cauca,"3.43722","-76.5225",COL,"3687925",Cali,P,PPLA,./0.png
+-76.5225,3.43722,CALI,COL,ELN_Stages_Mass_Kidnapping_o,Valle del Cauca,"3.43722","-76.5225",COL,"3687925",Cali,P,PPLA,./0.png
+-76.5225,3.43722,CALI,COL,ELN_Stages_Mass_Kidnapping_o,Valle del Cauca,"3.43722","-76.5225",COL,"3687925",Cali,P,PPLA,./0.png
+-99.135,16.68417,EL POZO DEL CHORRO,MEX,EUM_Certification_for_the_Colo,Guerrero,"16.68417","-99.135",MEX,"8869682",Charco del Pozo,P,PPL,./0.png
+-72.5856,11.1597,ALBANIA,COL,EUM_Certification_for_the_Colo,La Guajira,"11.1597","-72.5856",COL,"9179910",Albania,A,ADM2,./0.png
+-74.51784,1.578,SAN VICENTE DEL CAGUAN,COL,EUM_Certification_for_the_Colo,Caquetá,"1.578","-74.51784",COL,"3668291",San Vicente del Caguán,A,ADM2,./0.png
+-120.50147,47.50012,WASHINGTON,USA,EUM_Certification_for_the_Colo,Washington,"47.50012","-120.50147",USA,"5815135",Washington,A,ADM1,./0.png
+-74.51784,1.578,SAN VICENTE DEL CAGUAN,COL,EUM_Certification_for_the_Colo,Caquetá,"1.578","-74.51784",COL,"3668291",San Vicente del Caguán,A,ADM2,./0.png
+-74.08175,4.60971,BOGOTA,COL,Ex-commander_of_20th_Intel._Br,Bogota D.C.,"4.60971","-74.08175",COL,"3688689",Bogotá,P,PPLC,./0.png
+-74.08175,4.60971,BOGOTA,COL,Ex-commander_of_20th_Intel._Br,Bogota D.C.,"4.60971","-74.08175",COL,"3688689",Bogotá,P,PPLC,./0.png
+-64.98348,18.34829,UNITED STATES,VIR,Ex-commander_of_20th_Intel._Br,NA,"18.34829","-64.98348",VIR,"4796775",Virgin Islands of the United States,A,PCLD,./0.png
+-66,8,VENEZUELA,VEN,Ex-commander_of_20th_Intel._Br,NA,"8","-66",VEN,"3625428",Bolivarian Republic of Venezuela,A,PCLI,./0.png
+-66,8,VENEZUELA,VEN,Ex-commander_of_20th_Intel._Br,NA,"8","-66",VEN,"3625428",Bolivarian Republic of Venezuela,A,PCLI,./0.png
+-74.08175,4.60971,BOGOTA,COL,Ex-peace_Commissioner_Assassin,Bogota D.C.,"4.60971","-74.08175",COL,"3688689",Bogotá,P,PPLC,./0.png
+-74.08175,4.60971,BOGOTA,COL,Ex-peace_Commissioner_Assassin,Bogota D.C.,"4.60971","-74.08175",COL,"3688689",Bogotá,P,PPLC,./0.png
+-74.08175,4.60971,BOGOTA,COL,Ex-peace_Commissioner_Assassin,Bogota D.C.,"4.60971","-74.08175",COL,"3688689",Bogotá,P,PPLC,./0.png
+-74.08175,4.60971,BOGOTA,COL,Ex-peace_Commissioner_Assassin,Bogota D.C.,"4.60971","-74.08175",COL,"3688689",Bogotá,P,PPLC,./0.png
+-102,23,MEXICO,MEX,Ex-peace_Commissioner_Assassin,NA,"23","-102",MEX,"3996063",Mexico,A,PCLI,./0.png
+-66.87919,10.48801,CARACAS,VEN,Ex-peace_Commissioner_Assassin,Capital,"10.48801","-66.87919",VEN,"3646738",Caracas,P,PPLC,./0.png
+-74.51528,4.10682,LA URIBE,COL,Ex-peace_Commissioner_Assassin,Tolima,"4.10682","-74.51528",COL,"8581115",Vereda La Uribe,L,LCTY,./0.png
+-88.91667,13.83333,EL SALVADOR,SLV,Ex-peace_Commissioner_Assassin,NA,"13.83333","-88.91667",SLV,"3585968",Republic of El Salvador,A,PCLI,./0.png
+-90.25,15.5,GUATEMALA,GTM,Ex-peace_Commissioner_Assassin,NA,"15.5","-90.25",GTM,"3595528",Republic of Guatemala,A,PCLI,./0.png
+-38.51083,-12.97111,SALVADOR,BRA,Ex-peace_Commissioner_Assassin,Bahia,"-12.97111","-38.51083",BRA,"3450554",Salvador,P,PPLA,./0.png
+-74.08175,4.60971,BOGOTA,COL,Ex-peace_Commissioner_Assassin,Bogota D.C.,"4.60971","-74.08175",COL,"3688689",Bogotá,P,PPLC,./0.png
+-64.98348,18.34829,UNITED STATES,VIR,Ex-peace_Commissioner_Assassin,NA,"18.34829","-64.98348",VIR,"4796775",Virgin Islands of the United States,A,PCLD,./0.png
+-75.51444,10.39972,CARTAGENA,COL,Ex-peace_Commissioner_Assassin,Bolívar,"10.39972","-75.51444",COL,"3687238",Cartagena,P,PPLA,./0.png
+-120.50147,47.50012,WASHINGTON,USA,Ex-peace_Commissioner_Assassin,Washington,"47.50012","-120.50147",USA,"5815135",Washington,A,ADM1,./0.png
+-78.98935,38.11993,WOODROW WILSON CENTER,USA,Ex-peace_Commissioner_Assassin,Virginia,"38.11993","-78.98935",USA,"4794592",Woodrow Wilson Rehabilitation Center,S,BLDG,./0.png
+-75.58333,6.25,MEDELLIN,COL,Ex-peace_Commissioner_Assassin,Antioquia,"6.25","-75.58333",COL,"3674954",Medellín,A,ADM2,./0.png
+-76.5225,3.43722,CALI,COL,Ex-peace_Commissioner_Assassin,Valle del Cauca,"3.43722","-76.5225",COL,"3687925",Cali,P,PPLA,./0.png
+-74.08175,4.60971,BOGOTA,COL,Ex-peace_Commissioner_Assassin,Bogota D.C.,"4.60971","-74.08175",COL,"3688689",Bogotá,P,PPLC,./0.png
+-74.08175,4.60971,BOGOTA,COL,Ex-peace_Commissioner_Assassin,Bogota D.C.,"4.60971","-74.08175",COL,"3688689",Bogotá,P,PPLC,./0.png
+-74.51784,1.578,SAN VICENTE DEL CAGUAN,COL,FARC_Abusing_Civilians_in_Des,Caquetá,"1.578","-74.51784",COL,"3668291",San Vicente del Caguán,A,ADM2,./0.png
+-74.51784,1.578,SAN VICENTE DEL CAGUAN,COL,FARC_Abusing_Civilians_in_Des,Caquetá,"1.578","-74.51784",COL,"3668291",San Vicente del Caguán,A,ADM2,./0.png
+-119.5468,37.08773,SAN JORGE,USA,FARC_Ambush_Leaves_Heavy_Colom,California,"37.08773","-119.5468",USA,"5392162",San Joaquin River Gorge Management Area,L,PRK,./0.png
+-64,-32,CORDOBA,ARG,FARC_Ambush_Leaves_Heavy_Colom,Cordoba Province,"-32","-64",ARG,"3860255",Córdoba Province,A,ADM1,./0.png
+-119.5468,37.08773,SAN JORGE,USA,FARC_Ambush_Leaves_Heavy_Colom,California,"37.08773","-119.5468",USA,"5392162",San Joaquin River Gorge Management Area,L,PRK,./0.png
+-100.4804,28.69111,CORDOBA DEPARTMENT,USA,FARC_Ambush_Leaves_Heavy_Colom,Texas,"28.69111","-100.4804",USA,"7246670",Eagle Pass Fire Department Station 3 Cardona,S,BLDG,./0.png
+-75.4202,7.97917,MONTELIBANO,COL,FARC_Ambush_Leaves_Heavy_Colom,Córdoba,"7.97917","-75.4202",COL,"3674470",Montelíbano,P,PPL,./0.png
+-119.5468,37.08773,SAN JORGE,USA,FARC_Ambush_Leaves_Heavy_Colom,California,"37.08773","-119.5468",USA,"5392162",San Joaquin River Gorge Management Area,L,PRK,./0.png
+-78.25,-1.25,ECUADOR,ECU,General_Tapias_Briefs_Congress,NA,"-1.25","-78.25",ECU,"3658394",Republic of Ecuador,A,PCLI,./0.png
+-76.5225,3.43722,CALI,COL,General_Tapias_Briefs_Congress,Valle del Cauca,"3.43722","-76.5225",COL,"3687925",Cali,P,PPLA,./0.png
+-66,8,VENEZUELA,VEN,GOC_Relieves_Commanders_and_Se,NA,"8","-66",VEN,"3625428",Bolivarian Republic of Venezuela,A,PCLI,./0.png
+-74.08175,4.60971,BOGOTA,COL,High-Profile_Peace_Activist_Gu,Bogota D.C.,"4.60971","-74.08175",COL,"3688689",Bogotá,P,PPLC,./0.png
+-74.08175,4.60971,BOGOTA,COL,High-Profile_Peace_Activist_Gu,Bogota D.C.,"4.60971","-74.08175",COL,"3688689",Bogotá,P,PPLC,./0.png
+-74.08175,4.60971,BOGOTA,COL,High-Profile_Peace_Activist_Gu,Bogota D.C.,"4.60971","-74.08175",COL,"3688689",Bogotá,P,PPLC,./0.png
+-74.08175,4.60971,BOGOTA,COL,High-Profile_Peace_Activist_Gu,Bogota D.C.,"4.60971","-74.08175",COL,"3688689",Bogotá,P,PPLC,./0.png
+-74.08175,4.60971,BOGOTA,COL,High-Profile_Peace_Activist_Gu,Bogota D.C.,"4.60971","-74.08175",COL,"3688689",Bogotá,P,PPLC,./0.png
+-74.08175,4.60971,BOGOTA,COL,High-Profile_Peace_Activist_Gu,Bogota D.C.,"4.60971","-74.08175",COL,"3688689",Bogotá,P,PPLC,./0.png
+-74.08175,4.60971,BOGOTA,COL,High-Profile_Peace_Activist_Gu,Bogota D.C.,"4.60971","-74.08175",COL,"3688689",Bogotá,P,PPLC,./0.png
+-76.5225,3.43722,CALI,COL,High-Profile_Peace_Activist_Gu,Valle del Cauca,"3.43722","-76.5225",COL,"3687925",Cali,P,PPLA,./0.png
+-74.78132,10.96854,BARRANQUILLA,COL,High-Profile_Peace_Activist_Gu,Atlántico,"10.96854","-74.78132",COL,"3689147",Barranquilla,P,PPLA,./0.png
+-74.08175,4.60971,BOGOTA,COL,High-Profile_Peace_Activist_Gu,Bogota D.C.,"4.60971","-74.08175",COL,"3688689",Bogotá,P,PPLC,./0.png
+-74.08175,4.60971,BOGOTA,COL,High-Profile_Peace_Activist_Gu,Bogota D.C.,"4.60971","-74.08175",COL,"3688689",Bogotá,P,PPLC,./0.png
+-64.98348,18.34829,UNITED STATES,VIR,Human_Rights_NGO_CINEP--First_,NA,"18.34829","-64.98348",VIR,"4796775",Virgin Islands of the United States,A,PCLD,./0.png
+9.14062,48.69096,EUROPE,NA,Human_Rights_NGO_CINEP--First_,NA,"48.69096","9.14062",NA,"6255148",Europe,L,CONT,./0.png
+-117.98951,34.0314,LATIN AMERICA,USA,Human_Rights_NGO_CINEP--First_,California,"34.0314","-117.98951",USA,"5365452",Latin America Bible Institute,S,SCH,./0.png
+-74.08175,4.60971,BOGOTA,COL,Human_Rights_NGO_CINEP--First_,Bogota D.C.,"4.60971","-74.08175",COL,"3688689",Bogotá,P,PPLC,./0.png
+-75.58333,6.25,MEDELLIN,COL,Human_Rights_NGO_CINEP--First_,Antioquia,"6.25","-75.58333",COL,"3674954",Medellín,A,ADM2,./0.png
+12.4533,41.90225,VATICAN,VAT,Human_Rights_NGO_CINEP--First_,NA,"41.90225","12.4533",VAT,"3164670",State of the Vatican City,A,PCLI,./0.png
+-74.08175,4.60971,BOGOTA,COL,Human_Rights_NGO_CINEP--First_,Bogota D.C.,"4.60971","-74.08175",COL,"3688689",Bogotá,P,PPLC,./0.png
+-75.58333,6.25,MEDELLIN,COL,Human_Rights_NGO_CINEP--First_,Antioquia,"6.25","-75.58333",COL,"3674954",Medellín,A,ADM2,./0.png
+-100.4804,28.69111,CORDOBA DEPARTMENT,USA,Human_Rights_NGO_CINEP--First_,Texas,"28.69111","-100.4804",USA,"7246670",Eagle Pass Fire Department Station 3 Cardona,S,BLDG,./0.png
+-76.5225,3.43722,CALI,COL,Labor_Leader_and_Notorious_Col,Valle del Cauca,"3.43722","-76.5225",COL,"3687925",Cali,P,PPLA,./0.png
+-74.08175,4.60971,BOGOTA,COL,Labor_Leader_and_Notorious_Col,Bogota D.C.,"4.60971","-74.08175",COL,"3688689",Bogotá,P,PPLC,./0.png
+-3.00219,37.2835,VALLE DEL,ESP,Labor_Leader_and_Notorious_Col,Andalusia,"37.2835","-3.00219",ESP,"6357799",Valle del Zalabí,A,ADM3,./0.png
+-74.08175,4.60971,BOGOTA,COL,Labor_Leader_and_Notorious_Col,Bogota D.C.,"4.60971","-74.08175",COL,"3688689",Bogotá,P,PPLC,./0.png
+-1,41.58333,ZARAGOZA,ESP,Major_Paramilitary_Offensive_L,Aragon,"41.58333","-1",ESP,"3104323",Provincia de Zaragoza,A,ADM2,./0.png
+-77.02373,1.6702,SAN PABLO,COL,Major_Paramilitary_Offensive_L,Nariño,"1.6702","-77.02373",COL,"3669217",San Pablo,A,ADM2,./0.png
+-78.25,-1.25,ECUADOR,ECU,Major_Paramilitary_Offensive_L,NA,"-1.25","-78.25",ECU,"3658394",Republic of Ecuador,A,PCLI,./0.png
+-77.02373,1.6702,SAN PABLO,COL,Major_Paramilitary_Offensive_L,Nariño,"1.6702","-77.02373",COL,"3669217",San Pablo,A,ADM2,./0.png
+-77.02373,1.6702,SAN PABLO,COL,Major_Paramilitary_Offensive_L,Nariño,"1.6702","-77.02373",COL,"3669217",San Pablo,A,ADM2,./0.png
+-76.5225,3.43722,CALI,COL,Major_Paramilitary_Offensive_L,Valle del Cauca,"3.43722","-76.5225",COL,"3687925",Cali,P,PPLA,./0.png
+-76.31747,8.42291,URABA,COL,Major_Paramilitary_Offensive_L,Antioquia,"8.42291","-76.31747",COL,"9172240",San Pedro de Uraba,A,ADM2,./0.png
+-73.85472,7.06528,BARRANCABERMEJA,COL,"Massacres_in_Barrancabermeja,_",Santander,"7.06528","-73.85472",COL,"3689169",Barrancabermeja,P,PPLA2,./0.png
+-76.5225,3.43722,CALI,COL,"Massacres_in_Barrancabermeja,_",Valle del Cauca,"3.43722","-76.5225",COL,"3687925",Cali,P,PPLA,./0.png
+-73.85472,7.06528,BARRANCABERMEJA,COL,"Massacres_in_Barrancabermeja,_",Santander,"7.06528","-73.85472",COL,"3689169",Barrancabermeja,P,PPLA2,./0.png
+-72.91086,9.00092,LA GABARRA,COL,"Massacres_in_Barrancabermeja,_",Norte de Santander,"9.00092","-72.91086",COL,"3738270",La Gabarra,P,PPL,./0.png
+-66,8,VENEZUELA,VEN,"Massacres_in_Barrancabermeja,_",NA,"8","-66",VEN,"3625428",Bolivarian Republic of Venezuela,A,PCLI,./0.png
+-74.08175,4.60971,BOGOTA,COL,"Massacres_in_Barrancabermeja,_",Bogota D.C.,"4.60971","-74.08175",COL,"3688689",Bogotá,P,PPLC,./0.png
+-66,8,VENEZUELA,VEN,"Massacres_in_Barrancabermeja,_",NA,"8","-66",VEN,"3625428",Bolivarian Republic of Venezuela,A,PCLI,./0.png
+-76.5225,3.43722,CALI,COL,"Massacres_in_Barrancabermeja,_",Valle del Cauca,"3.43722","-76.5225",COL,"3687925",Cali,P,PPLA,./0.png
+-74.08175,4.60971,BOGOTA,COL,"Massacres_in_Barrancabermeja,_",Bogota D.C.,"4.60971","-74.08175",COL,"3688689",Bogotá,P,PPLC,./0.png
+-76.5225,3.43722,CALI,COL,"Massacres_in_Barrancabermeja,_",Valle del Cauca,"3.43722","-76.5225",COL,"3687925",Cali,P,PPLA,./0.png
+-73.85472,7.06528,BARRANCABERMEJA,COL,"Massacres_in_Barrancabermeja,_",Santander,"7.06528","-73.85472",COL,"3689169",Barrancabermeja,P,PPLA2,./0.png
+-80.19366,25.77427,MIAMI,USA,Meeting_with_Attorney_General_,Florida,"25.77427","-80.19366",USA,"4164138",Miami,P,PPLA2,./0.png
+-74.08175,4.60971,BOGOTA,COL,Meeting_with_Attorney_General_,Bogota D.C.,"4.60971","-74.08175",COL,"3688689",Bogotá,P,PPLC,./0.png
+21.09375,7.1881,AFRICA,NA,Mercenary_Yair_Klein_Possibly_,NA,"7.1881","21.09375",NA,"6255146",Africa,L,CONT,./0.png
+-75.58333,6.25,MEDELLIN,COL,Mercenary_Yair_Klein_Possibly_,Antioquia,"6.25","-75.58333",COL,"3674954",Medellín,A,ADM2,./0.png
+-103.26667,20.69833,ISRAEL,MEX,Mercenary_Yair_Klein_Possibly_,Jalisco,"20.69833","-103.26667",MEX,"8862044",Nuevo Israel,P,PPL,./0.png
+-103.26667,20.69833,ISRAEL,MEX,Mercenary_Yair_Klein_Possibly_,Jalisco,"20.69833","-103.26667",MEX,"8862044",Nuevo Israel,P,PPL,./0.png
+-103.26667,20.69833,ISRAEL,MEX,Mercenary_Yair_Klein_Possibly_,Jalisco,"20.69833","-103.26667",MEX,"8862044",Nuevo Israel,P,PPL,./0.png
+-74.08175,4.60971,BOGOTA,COL,Mercenary_Yair_Klein_Possibly_,Bogota D.C.,"4.60971","-74.08175",COL,"3688689",Bogotá,P,PPLC,./0.png
+-103.26667,20.69833,ISRAEL,MEX,Mercenary_Yair_Klein_Possibly_,Jalisco,"20.69833","-103.26667",MEX,"8862044",Nuevo Israel,P,PPL,./0.png
+21.09375,7.1881,AFRICA,NA,Mercenary_Yair_Klein_Possibly_,NA,"7.1881","21.09375",NA,"6255146",Africa,L,CONT,./0.png
+-103.26667,20.69833,ISRAEL,MEX,Mercenary_Yair_Klein_Possibly_,Jalisco,"20.69833","-103.26667",MEX,"8862044",Nuevo Israel,P,PPL,./0.png
+-103.26667,20.69833,ISRAEL,MEX,Mercenary_Yair_Klein_Possibly_,Jalisco,"20.69833","-103.26667",MEX,"8862044",Nuevo Israel,P,PPL,./0.png
+-103.26667,20.69833,ISRAEL,MEX,Mercenary_Yair_Klein_Possibly_,Jalisco,"20.69833","-103.26667",MEX,"8862044",Nuevo Israel,P,PPL,./0.png
+35.0,31.75,JERUSALEM,ISR,Mercenary_Yair_Klein_Possibly_,Jerusalem,"31.75","35",ISR,"293198",Jerusalem,A,ADM1,./0.png
+-74.08175,4.60971,BOGOTA,COL,Mercenary_Yair_Klein_Possibly_,Bogota D.C.,"4.60971","-74.08175",COL,"3688689",Bogotá,P,PPLC,./0.png
+-75.58333,6.25,MEDELLIN,COL,Military_Justice_Round-Up,Antioquia,"6.25","-75.58333",COL,"3674954",Medellín,A,ADM2,./0.png
+-74.08175,4.60971,BOGOTA,COL,MOD_Discharges_Two_Sergeants_f,Bogota D.C.,"4.60971","-74.08175",COL,"3688689",Bogotá,P,PPLC,./0.png
+-74.08175,4.60971,BOGOTA,COL,MOD_Discharges_Two_Sergeants_f,Bogota D.C.,"4.60971","-74.08175",COL,"3688689",Bogotá,P,PPLC,./0.png
+-74.08175,4.60971,BOGOTA,COL,MOD_Discharges_Two_Sergeants_f,Bogota D.C.,"4.60971","-74.08175",COL,"3688689",Bogotá,P,PPLC,./0.png
+39.5,24.9,MEDINA,SAU,MOD_Discharges_Two_Sergeants_f,Al Madīnah al Munawwarah,"24.9","39.5",SAU,"109224",Medina Region,A,ADM1,./0.png
+39.5,24.9,MEDINA,SAU,MOD_Discharges_Two_Sergeants_f,Al Madīnah al Munawwarah,"24.9","39.5",SAU,"109224",Medina Region,A,ADM1,./0.png
+39.5,24.9,MEDINA,SAU,MOD_Discharges_Two_Sergeants_f,Al Madīnah al Munawwarah,"24.9","39.5",SAU,"109224",Medina Region,A,ADM1,./0.png
+-64,-32,CORDOBA,ARG,Narcotics_in_a_Colombian_Para,Cordoba Province,"-32","-64",ARG,"3860255",Córdoba Province,A,ADM1,./0.png
+-120.50147,47.50012,WASHINGTON,USA,Narcotics_in_a_Colombian_Para,Washington,"47.50012","-120.50147",USA,"5815135",Washington,A,ADM1,./0.png
+-81.37924,28.53834,ORLANDO,USA,Narcotics_in_a_Colombian_Para,Florida,"28.53834","-81.37924",USA,"4167147",Orlando,P,PPLA2,./0.png
+-64,-32,CORDOBA,ARG,Narcotics_in_a_Colombian_Para,Cordoba Province,"-32","-64",ARG,"3860255",Córdoba Province,A,ADM1,./0.png
+-66,8,VENEZUELA,VEN,Narcotics_in_a_Colombian_Para,NA,"8","-66",VEN,"3625428",Bolivarian Republic of Venezuela,A,PCLI,./0.png
+-64,-32,CORDOBA,ARG,Narcotics_in_a_Colombian_Para,Cordoba Province,"-32","-64",ARG,"3860255",Córdoba Province,A,ADM1,./0.png
+-88.59444,15.72778,PUERTO,GTM,Narcotics_in_a_Colombian_Para,Izabal,"15.72778","-88.59444",GTM,"3591062",Puerto Barrios,P,PPLA,./0.png
+-120.50147,47.50012,WASHINGTON,USA,Narcotics_in_a_Colombian_Para,Washington,"47.50012","-120.50147",USA,"5815135",Washington,A,ADM1,./0.png
+-64.98348,18.34829,UNITED STATES,VIR,Narcotics_in_a_Colombian_Para,NA,"18.34829","-64.98348",VIR,"4796775",Virgin Islands of the United States,A,PCLD,./0.png
+-76.5225,3.43722,CALI,COL,Narcotics_in_a_Colombian_Para,Valle del Cauca,"3.43722","-76.5225",COL,"3687925",Cali,P,PPLA,./0.png
+-76.5,3.75,CAUCA,COL,Narcotics_in_a_Colombian_Para,Valle del Cauca,"3.75","-76.5",COL,"3666313",Departamento del Valle del Cauca,A,ADM1,./0.png
+-3.00219,37.2835,VALLE DEL,ESP,Narcotics_in_a_Colombian_Para,Andalusia,"37.2835","-3.00219",ESP,"6357799",Valle del Zalabí,A,ADM3,./0.png
+-123.90697,46.14265,NORTH COAST,USA,Narcotics_in_a_Colombian_Para,Oregon,"46.14265","-123.90697",USA,"9671735",Oregon Youth Authority - North Coast Youth Correctional Facility,S,BLDG,./0.png
+-64,-32,CORDOBA,ARG,Narcotics_in_a_Colombian_Para,Cordoba Province,"-32","-64",ARG,"3860255",Córdoba Province,A,ADM1,./0.png
+15.2958,40.66415,VALLE,ITA,Narcotics_in_a_Colombian_Para,Campania,"40.66415","15.2958",ITA,"8952764",Valle,P,PPL,./0.png
+-74.08175,4.60971,BOGOTA,COL,ONDCP_Director's_Visit_to_Colo,Bogota D.C.,"4.60971","-74.08175",COL,"3688689",Bogotá,P,PPLC,./0.png
+-120.50147,47.50012,WASHINGTON,USA,ONDCP_Director's_Visit_to_Colo,Washington,"47.50012","-120.50147",USA,"5815135",Washington,A,ADM1,./0.png
+-64.98348,18.34829,UNITED STATES,VIR,ONDCP_Director's_Visit_to_Colo,NA,"18.34829","-64.98348",VIR,"4796775",Virgin Islands of the United States,A,PCLD,./0.png
+-86.06888,40.75365,PERU,USA,ONDCP_Director's_Visit_to_Colo,Indiana,"40.75365","-86.06888",USA,"4924733",Peru,P,PPLA2,./0.png
+-86.06888,40.75365,PERU,USA,ONDCP_Director's_Visit_to_Colo,Indiana,"40.75365","-86.06888",USA,"4924733",Peru,P,PPLA2,./0.png
+-74.08175,4.60971,BOGOTA,COL,ONDCP_Director's_Visit_to_Colo,Bogota D.C.,"4.60971","-74.08175",COL,"3688689",Bogotá,P,PPLC,./0.png
+-66,8,VENEZUELA,VEN,Paramilitaries_Massacre_As_Man,NA,"8","-66",VEN,"3625428",Bolivarian Republic of Venezuela,A,PCLI,./0.png
+-112.06932,33.64143,THE TOWN SQUARE,USA,Paramilitaries_Massacre_As_Man,Arizona,"33.64143","-112.06932",USA,"5317223",The Town Square,P,PPL,./0.png
+-112.06932,33.64143,THE TOWN SQUARE,USA,Paramilitaries_Massacre_As_Man,Arizona,"33.64143","-112.06932",USA,"5317223",The Town Square,P,PPL,./0.png
+-66,8,VENEZUELA,VEN,Paramilitaries_Massacre_As_Man,NA,"8","-66",VEN,"3625428",Bolivarian Republic of Venezuela,A,PCLI,./0.png
+-66,8,VENEZUELA,VEN,Paramilitaries_Massacre_As_Man,NA,"8","-66",VEN,"3625428",Bolivarian Republic of Venezuela,A,PCLI,./0.png
+-77.02373,1.6702,SAN PABLO,COL,Paramilitary_Assaults_on_Guerr,Nariño,"1.6702","-77.02373",COL,"3669217",San Pablo,A,ADM2,./0.png
+-73,8,NORTE DE SANTANDER,COL,Paramilitary_Assaults_on_Guerr,Norte de Santander,"8","-73",COL,"3673798",Departamento de Norte de Santander,A,ADM1,./0.png
+-76.5225,3.43722,CALI,COL,Paramilitary_Assaults_on_Guerr,Valle del Cauca,"3.43722","-76.5225",COL,"3687925",Cali,P,PPLA,./0.png
+-119.63379,39.31297,PACIFIC COAST,USA,Paramilitary_Assaults_on_Guerr,Nevada,"39.31297","-119.63379",USA,"5514429",Virginia City Cemeteries,S,CMTY,./0.png
+-77.03545,3.86425,BUENAVENTURA,COL,Paramilitary_Assaults_on_Guerr,Valle del Cauca,"3.86425","-77.03545",COL,"9172370",Buenaventura,A,ADM2,./0.png
+-75.58333,6.25,MEDELLIN,COL,Paramilitary_Threat_against_Hu,Antioquia,"6.25","-75.58333",COL,"3674954",Medellín,A,ADM2,./0.png
+-75.58333,6.25,MEDELLIN,COL,Paramilitary_Threat_against_Hu,Antioquia,"6.25","-75.58333",COL,"3674954",Medellín,A,ADM2,./0.png
+-76.5225,3.43722,CALI,COL,Pastrana_Returns_to_Condemn_Ca,Valle del Cauca,"3.43722","-76.5225",COL,"3687925",Cali,P,PPLA,./0.png
+-113.64258,60.10867,CANADA,CAN,Pastrana_Returns_to_Condemn_Ca,NA,"60.10867","-113.64258",CAN,"6251999",Canada,A,PCLI,./0.png
+-113.64258,60.10867,CANADA,CAN,Pastrana_Returns_to_Condemn_Ca,NA,"60.10867","-113.64258",CAN,"6251999",Canada,A,PCLI,./0.png
+-76.5225,3.43722,CALI,COL,Pastrana_Returns_to_Condemn_Ca,Valle del Cauca,"3.43722","-76.5225",COL,"3687925",Cali,P,PPLA,./0.png
+12.4533,41.90225,VATICAN,VAT,Pastrana_Returns_to_Condemn_Ca,NA,"41.90225","12.4533",VAT,"3164670",State of the Vatican City,A,PCLI,./0.png
+-76.5225,3.43722,CALI,COL,Pastrana_Returns_to_Condemn_Ca,Valle del Cauca,"3.43722","-76.5225",COL,"3687925",Cali,P,PPLA,./0.png
+15.2958,40.66415,VALLE,ITA,Pastrana_Returns_to_Condemn_Ca,Campania,"40.66415","15.2958",ITA,"8952764",Valle,P,PPL,./0.png
+-113.64258,60.10867,CANADA,CAN,Pastrana_Returns_to_Condemn_Ca,NA,"60.10867","-113.64258",CAN,"6251999",Canada,A,PCLI,./0.png
+-74.78132,10.96854,BARRANQUILLA,COL,Political_Violence_in_Bolívar_,Atlántico,"10.96854","-74.78132",COL,"3689147",Barranquilla,P,PPLA,./0.png
+-75.51444,10.39972,CARTAGENA,COL,Political_Violence_in_Bolívar_,Bolívar,"10.39972","-75.51444",COL,"3687238",Cartagena,P,PPLA,./0.png
+-74.78132,10.96854,BARRANQUILLA,COL,Political_Violence_in_Bolívar_,Atlántico,"10.96854","-74.78132",COL,"3689147",Barranquilla,P,PPLA,./0.png
+-75.51444,10.39972,CARTAGENA,COL,Political_Violence_in_Bolívar_,Bolívar,"10.39972","-75.51444",COL,"3687238",Cartagena,P,PPLA,./0.png
+-75.51444,10.39972,CARTAGENA,COL,Political_Violence_in_Bolívar_,Bolívar,"10.39972","-75.51444",COL,"3687238",Cartagena,P,PPLA,./0.png
+-74.78132,10.96854,BARRANQUILLA,COL,Political_Violence_in_Bolívar_,Atlántico,"10.96854","-74.78132",COL,"3689147",Barranquilla,P,PPLA,./0.png
+-81.49149,31.14995,PORT CITY,USA,Political_Violence_in_Bolívar_,Georgia,"31.14995","-81.49149",USA,"4184845",Brunswick,P,PPLA2,./0.png
+-74.78132,10.96854,BARRANQUILLA,COL,Political_Violence_in_Bolívar_,Atlántico,"10.96854","-74.78132",COL,"3689147",Barranquilla,P,PPLA,./0.png
+-74.78132,10.96854,BARRANQUILLA,COL,Political_Violence_in_Bolívar_,Atlántico,"10.96854","-74.78132",COL,"3689147",Barranquilla,P,PPLA,./0.png
+-75.58333,6.25,MEDELLIN,COL,Political_Violence_in_Bolívar_,Antioquia,"6.25","-75.58333",COL,"3674954",Medellín,A,ADM2,./0.png
+-74.78132,10.96854,BARRANQUILLA,COL,Political_Violence_in_Bolívar_,Atlántico,"10.96854","-74.78132",COL,"3689147",Barranquilla,P,PPLA,./0.png
+-74.08175,4.60971,BOGOTA,COL,Political_Violence_in_Bolívar_,Bogota D.C.,"4.60971","-74.08175",COL,"3688689",Bogotá,P,PPLC,./0.png
+-75.51444,10.39972,CARTAGENA,COL,Political_Violence_in_Bolívar_,Bolívar,"10.39972","-75.51444",COL,"3687238",Cartagena,P,PPLA,./0.png
+-66.87919,10.48801,CARACAS,VEN,Possible_Release_on_or_after_8,Capital,"10.48801","-66.87919",VEN,"3646738",Caracas,P,PPLC,./0.png
+-74.08175,4.60971,BOGOTA,COL,Post's_UpdatesSuggested_Chang,Bogota D.C.,"4.60971","-74.08175",COL,"3688689",Bogotá,P,PPLC,./0.png
+-76.22607,3.53969,PALMIRA,COL,Post's_UpdatesSuggested_Chang,Valle del Cauca,"3.53969","-76.22607",COL,"3673165",Palmira,A,ADM2,./0.png
+-74.08175,4.60971,BOGOTA,COL,Post's_UpdatesSuggested_Chang,Bogota D.C.,"4.60971","-74.08175",COL,"3688689",Bogotá,P,PPLC,./0.png
+-76.5225,3.43722,CALI,COL,Post's_UpdatesSuggested_Chang,Valle del Cauca,"3.43722","-76.5225",COL,"3687925",Cali,P,PPLA,./0.png
+-120.50147,47.50012,WASHINGTON,USA,Post's_UpdatesSuggested_Chang,Washington,"47.50012","-120.50147",USA,"5815135",Washington,A,ADM1,./0.png
+-120.50147,47.50012,WASHINGTON,USA,Post's_UpdatesSuggested_Chang,Washington,"47.50012","-120.50147",USA,"5815135",Washington,A,ADM1,./0.png
+-120.50147,47.50012,WASHINGTON,USA,Post's_UpdatesSuggested_Chang,Washington,"47.50012","-120.50147",USA,"5815135",Washington,A,ADM1,./0.png
+-72.07462,2.55368,SAN JOSE DEL GUAVIARE,COL,Post's_UpdatesSuggested_Chang,Guaviare,"2.55368","-72.07462",COL,"6851384",San José del Guaviare,A,ADM2,./0.png
+-74.08175,4.60971,BOGOTA,COL,Post's_UpdatesSuggested_Chang,Bogota D.C.,"4.60971","-74.08175",COL,"3688689",Bogotá,P,PPLC,./0.png
+-75.72222,4.76896,PEREIRA,COL,Post's_UpdatesSuggested_Chang,Risaralda,"4.76896","-75.72222",COL,"3672487",Pereira,A,ADM2,./0.png
+-74.08175,4.60971,BOGOTA,COL,Post's_UpdatesSuggested_Chang,Bogota D.C.,"4.60971","-74.08175",COL,"3688689",Bogotá,P,PPLC,./0.png
+-74.08175,4.60971,BOGOTA,COL,Post's_UpdatesSuggested_Chang,Bogota D.C.,"4.60971","-74.08175",COL,"3688689",Bogotá,P,PPLC,./0.png
+-75.58333,6.25,MEDELLIN,COL,Post's_UpdatesSuggested_Chang,Antioquia,"6.25","-75.58333",COL,"3674954",Medellín,A,ADM2,./0.png
+-74.08175,4.60971,BOGOTA,COL,Post's_UpdatesSuggested_Chang,Bogota D.C.,"4.60971","-74.08175",COL,"3688689",Bogotá,P,PPLC,./0.png
+-74.08175,4.60971,BOGOTA,COL,Post's_UpdatesSuggested_Chang,Bogota D.C.,"4.60971","-74.08175",COL,"3688689",Bogotá,P,PPLC,./0.png
+-74.08175,4.60971,BOGOTA,COL,Post's_UpdatesSuggested_Chang,Bogota D.C.,"4.60971","-74.08175",COL,"3688689",Bogotá,P,PPLC,./0.png
+-0.30864,51.49227,LONDON,GBR,Post's_UpdatesSuggested_Chang,England,"51.49227","-0.30864",GBR,"11591955",London,L,RGN,./0.png
+-74.08175,4.60971,BOGOTA,COL,Post's_UpdatesSuggested_Chang,Bogota D.C.,"4.60971","-74.08175",COL,"3688689",Bogotá,P,PPLC,./0.png
+-71.10832,42.36565,MASSACHUSETTS,USA,Private_CODEL_Meets_with_FARC_,Massachusetts,"42.36565","-71.10832",USA,"6254926",Massachusetts,A,ADM1,./0.png
+-120.50147,47.50012,WASHINGTON,USA,Private_CODEL_Meets_with_FARC_,Washington,"47.50012","-120.50147",USA,"5815135",Washington,A,ADM1,./0.png
+-89.6447,16.41247,LA MACHACA,GTM,Private_CODEL_Meets_with_FARC_,Petén,"16.41247","-89.6447",GTM,"12104091",Machaca Uno,P,PPL,./0.png
+-66,8,VENEZUELA,VEN,Private_CODEL_Meets_with_FARC_,NA,"8","-66",VEN,"3625428",Bolivarian Republic of Venezuela,A,PCLI,./0.png
+-102,23,MEXICO,MEX,Private_CODEL_Meets_with_FARC_,NA,"23","-102",MEX,"3996063",Mexico,A,PCLI,./0.png
+-102,23,MEXICO,MEX,Private_CODEL_Meets_with_FARC_,NA,"23","-102",MEX,"3996063",Mexico,A,PCLI,./0.png
+-74.08175,4.60971,BOGOTA,COL,Private_CODEL_Meets_with_FARC_,Bogota D.C.,"4.60971","-74.08175",COL,"3688689",Bogotá,P,PPLC,./0.png
+-117.98951,34.0314,LATIN AMERICA,USA,Private_CODEL_Meets_with_FARC_,California,"34.0314","-117.98951",USA,"5365452",Latin America Bible Institute,S,SCH,./0.png
+-88.59444,15.72778,PUERTO,GTM,Puerto_Inirida_Latest_FARC_Of,Izabal,"15.72778","-88.59444",GTM,"3591062",Puerto Barrios,P,PPLA,./0.png
+-88.59444,15.72778,PUERTO,GTM,Puerto_Inirida_Latest_FARC_Of,Izabal,"15.72778","-88.59444",GTM,"3591062",Puerto Barrios,P,PPLA,./0.png
+-88.59444,15.72778,PUERTO,GTM,Puerto_Inirida_Latest_FARC_Of,Izabal,"15.72778","-88.59444",GTM,"3591062",Puerto Barrios,P,PPLA,./0.png
+35.0,31.75,JERUSALEM,ISR,Puerto_Inirida_Latest_FARC_Of,Jerusalem,"31.75","35",ISR,"293198",Jerusalem,A,ADM1,./0.png
+-88.59444,15.72778,PUERTO,GTM,Puerto_Inirida_Latest_FARC_Of,Izabal,"15.72778","-88.59444",GTM,"3591062",Puerto Barrios,P,PPLA,./0.png
+-88.59444,15.72778,PUERTO,GTM,Puerto_Inirida_Latest_FARC_Of,Izabal,"15.72778","-88.59444",GTM,"3591062",Puerto Barrios,P,PPLA,./0.png
+-5.55589,36.78756,PRADO,ESP,Puerto_Inirida_Latest_FARC_Of,Andalusia,"36.78756","-5.55589",ESP,"2512294",Prado del Rey,P,PPLA3,./0.png
+-88.59444,15.72778,PUERTO,GTM,Puerto_Inirida_Latest_FARC_Of,Izabal,"15.72778","-88.59444",GTM,"3591062",Puerto Barrios,P,PPLA,./0.png
+-74.76614,2.12172,SAN VICENTE DE CAGUAN,COL,Puerto_Inirida_Latest_FARC_Of,Caquetá,"2.12172","-74.76614",COL,"3668290",San Vicente del Caguán,P,PPLA2,./0.png
+-88.59444,15.72778,PUERTO,GTM,Puerto_Inirida_Latest_FARC_Of,Izabal,"15.72778","-88.59444",GTM,"3591062",Puerto Barrios,P,PPLA,./0.png
+-88.59444,15.72778,PUERTO,GTM,Puerto_Inirida_Latest_FARC_Of,Izabal,"15.72778","-88.59444",GTM,"3591062",Puerto Barrios,P,PPLA,./0.png
+-88.59444,15.72778,PUERTO,GTM,Puerto_Inirida_Latest_FARC_Of,Izabal,"15.72778","-88.59444",GTM,"3591062",Puerto Barrios,P,PPLA,./0.png
+-80,9,PANAMA,PAN,Qrlos_[sic]_Castaño_Q_Peace_Co,NA,"9","-80",PAN,"3703430",Republic of Panama,A,PCLI,./0.png
+-87.97395,41.75198,DARIEN,USA,Qrlos_[sic]_Castaño_Q_Peace_Co,Illinois,"41.75198","-87.97395",USA,"4889447",Darien,P,PPL,./0.png
+-80,9,PANAMA,PAN,Qrlos_[sic]_Castaño_Q_Peace_Co,NA,"9","-80",PAN,"3703430",Republic of Panama,A,PCLI,./0.png
+-74.08175,4.60971,BOGOTA,COL,Qrlos_[sic]_Castaño_Q_Peace_Co,Bogota D.C.,"4.60971","-74.08175",COL,"3688689",Bogotá,P,PPLC,./0.png
+-74.08175,4.60971,BOGOTA,COL,Qrlos_[sic]_Castaño_Q_Peace_Co,Bogota D.C.,"4.60971","-74.08175",COL,"3688689",Bogotá,P,PPLC,./0.png
+-123.90697,46.14265,NORTH COAST,USA,Senator_Dodd's_December_6-8_Vi,Oregon,"46.14265","-123.90697",USA,"9671735",Oregon Youth Authority - North Coast Youth Correctional Facility,S,BLDG,./0.png
+-102,23,MEXICO,MEX,Senator_Dodd's_December_6-8_Vi,NA,"23","-102",MEX,"3996063",Mexico,A,PCLI,./0.png
+-66,8,VENEZUELA,VEN,Senator_Dodd's_December_6-8_Vi,NA,"8","-66",VEN,"3625428",Bolivarian Republic of Venezuela,A,PCLI,./0.png
+-74.08175,4.60971,BOGOTA,COL,Terrorism_Possible_Threat_to_,Bogota D.C.,"4.60971","-74.08175",COL,"3688689",Bogotá,P,PPLC,./0.png
+-74.08175,4.60971,BOGOTA,COL,Terrorism_Possible_Threat_to_,Bogota D.C.,"4.60971","-74.08175",COL,"3688689",Bogotá,P,PPLC,./0.png
+-88.59444,15.72778,PUERTO,GTM,The_FARC_Not_Very_Nice_People,Izabal,"15.72778","-88.59444",GTM,"3591062",Puerto Barrios,P,PPLA,./0.png
+-3.25,37.25,GRANADA,ESP,The_FARC_Not_Very_Nice_People,Andalusia,"37.25","-3.25",ESP,"2517115",Provincia de Granada,A,ADM2,./0.png
+-75.03334,1.96779,PUERTO RICO,COL,The_FARC_Not_Very_Nice_People,Caquetá,"1.96779","-75.03334",COL,"6979259",Puerto Rico,A,ADM2,./0.png
+-71.33333,-32.75,VALPARAISO,CHL,The_FARC_Not_Very_Nice_People,Valparaíso,"-32.75","-71.33333",CHL,"3868621",Región de Valparaíso,A,ADM1,./0.png
+-88.59444,15.72778,PUERTO,GTM,The_FARC_Not_Very_Nice_People,Izabal,"15.72778","-88.59444",GTM,"3591062",Puerto Barrios,P,PPLA,./0.png
+-75.03334,1.96779,PUERTO RICO,COL,The_FARC_Not_Very_Nice_People,Caquetá,"1.96779","-75.03334",COL,"6979259",Puerto Rico,A,ADM2,./0.png
+-75.58333,6.25,MEDELLIN,COL,The_FARC_Not_Very_Nice_People,Antioquia,"6.25","-75.58333",COL,"3674954",Medellín,A,ADM2,./0.png
+-79.5,22.0,CUBA,CUB,Tirofijo_a_No-Show_at_Openin,NA,"22","-79.5",CUB,"3562981",Republic of Cuba,A,PCLI,./0.png
+37.61556,55.75222,MOSCOW,RUS,Tirofijo_a_No-Show_at_Openin,Moscow,"55.75222","37.61556",RUS,"524901",Moscow,P,PPLC,./0.png
+-64.98348,18.34829,UNITED STATES,VIR,Tirofijo_a_No-Show_at_Openin,NA,"18.34829","-64.98348",VIR,"4796775",Virgin Islands of the United States,A,PCLD,./0.png
+-66,8,VENEZUELA,VEN,Triple_U.S._Citizen_Killings_P,NA,"8","-66",VEN,"3625428",Bolivarian Republic of Venezuela,A,PCLI,./0.png
+-74.08175,4.60971,BOGOTA,COL,Triple_U.S._Citizen_Killings_P,Bogota D.C.,"4.60971","-74.08175",COL,"3688689",Bogotá,P,PPLC,./0.png
+-66,8,VENEZUELA,VEN,Triple_U.S._Citizen_Killings_P,NA,"8","-66",VEN,"3625428",Bolivarian Republic of Venezuela,A,PCLI,./0.png
+-74.08175,4.60971,BOGOTA,COL,Triple_U.S._Citizen_Killings_P,Bogota D.C.,"4.60971","-74.08175",COL,"3688689",Bogotá,P,PPLC,./0.png
+-74.51784,1.578,SAN VICENTE DEL CAGUAN,COL,Triple_U.S._Citizen_Killings_P,Caquetá,"1.578","-74.51784",COL,"3668291",San Vicente del Caguán,A,ADM2,./0.png
+-64.98348,18.34829,UNITED STATES,VIR,Triple_U.S._Citizen_Killings_P,NA,"18.34829","-64.98348",VIR,"4796775",Virgin Islands of the United States,A,PCLD,./0.png
+-66,8,VENEZUELA,VEN,Triple_U.S._Citizen_Killings_P,NA,"8","-66",VEN,"3625428",Bolivarian Republic of Venezuela,A,PCLI,./0.png
+-66,8,VENEZUELA,VEN,Triple_U.S._Citizen_Killings_P,NA,"8","-66",VEN,"3625428",Bolivarian Republic of Venezuela,A,PCLI,./0.png
+-73.4915,4.07424,VILLAVICENCIO,COL,Two_Colombian_Army_Generals_Re,Meta,"4.07424","-73.4915",COL,"3665901",Villavicencio,A,ADM2,./0.png
+-74.08175,4.60971,BOGOTA,COL,Update_on_the_Kidnapping_of_Am,Bogota D.C.,"4.60971","-74.08175",COL,"3688689",Bogotá,P,PPLC,./0.png
+-79.4163,43.70011,TORONTO,CAN,Update_on_the_Kidnapping_of_Am,Ontario,"43.70011","-79.4163",CAN,"6167865",Toronto,P,PPLA,./0.png
+-72.07462,2.55368,JOSE DEL GUAVIARE,COL,Update_on_the_Mapiripán_Massac,Guaviare,"2.55368","-72.07462",COL,"6851384",San José del Guaviare,A,ADM2,./0.png
+-72.07462,2.55368,SAN JOSE DEL GUAVIARE,COL,Update_on_the_Mapiripán_Massac,Guaviare,"2.55368","-72.07462",COL,"6851384",San José del Guaviare,A,ADM2,./0.png
+-120.50147,47.50012,WASHINGTON,USA,Visit_of_the_Strategy_Subgroup,Washington,"47.50012","-120.50147",USA,"5815135",Washington,A,ADM1,./0.png
+-74.08175,4.60971,BOGOTA,COL,Visit_of_the_Strategy_Subgroup,Bogota D.C.,"4.60971","-74.08175",COL,"3688689",Bogotá,P,PPLC,./0.png
+-120.50147,47.50012,WASHINGTON,USA,Visit_of_the_Strategy_Subgroup,Washington,"47.50012","-120.50147",USA,"5815135",Washington,A,ADM1,./0.png
+-66,8,VENEZUELA,VEN,"Visit_to_Cúcuta,_on_Colombian-",NA,"8","-66",VEN,"3625428",Bolivarian Republic of Venezuela,A,PCLI,./0.png
+-66,8,VENEZUELA,VEN,"Visit_to_Cúcuta,_on_Colombian-",NA,"8","-66",VEN,"3625428",Bolivarian Republic of Venezuela,A,PCLI,./0.png
+-66,8,VENEZUELA,VEN,"Visit_to_Cúcuta,_on_Colombian-",NA,"8","-66",VEN,"3625428",Bolivarian Republic of Venezuela,A,PCLI,./0.png
+-73,8,NORTE DE SANTANDER,COL,"Visit_to_Cúcuta,_on_Colombian-",Norte de Santander,"8","-73",COL,"3673798",Departamento de Norte de Santander,A,ADM1,./0.png
+-66,8,VENEZUELA,VEN,"Visit_to_Cúcuta,_on_Colombian-",NA,"8","-66",VEN,"3625428",Bolivarian Republic of Venezuela,A,PCLI,./0.png
+-66,8,VENEZUELA,VEN,"Visit_to_Cúcuta,_on_Colombian-",NA,"8","-66",VEN,"3625428",Bolivarian Republic of Venezuela,A,PCLI,./0.png
+-66,8,VENEZUELA,VEN,"Visit_to_Cúcuta,_on_Colombian-",NA,"8","-66",VEN,"3625428",Bolivarian Republic of Venezuela,A,PCLI,./0.png
+-66,8,VENEZUELA,VEN,"Visit_to_Cúcuta,_on_Colombian-",NA,"8","-66",VEN,"3625428",Bolivarian Republic of Venezuela,A,PCLI,./0.png
+-66,8,VENEZUELA,VEN,"Visit_to_Cúcuta,_on_Colombian-",NA,"8","-66",VEN,"3625428",Bolivarian Republic of Venezuela,A,PCLI,./0.png
+-73,8,NORTE DE SANTANDER,COL,"Visit_to_Cúcuta,_on_Colombian-",Norte de Santander,"8","-73",COL,"3673798",Departamento de Norte de Santander,A,ADM1,./0.png
+-66,8,VENEZUELA,VEN,"Visit_to_Cúcuta,_on_Colombian-",NA,"8","-66",VEN,"3625428",Bolivarian Republic of Venezuela,A,PCLI,./0.png
+-120.50147,47.50012,WASHINGTON,USA,"VP_Bell_Receives_Ambassador,_D",Washington,"47.50012","-120.50147",USA,"5815135",Washington,A,ADM1,./0.png
+-120.50147,47.50012,WASHINGTON,USA,"VP_Bell_Receives_Ambassador,_D",Washington,"47.50012","-120.50147",USA,"5815135",Washington,A,ADM1,./0.png
+-72.07462,2.55368,SAN JOSE DEL GUAVIARE,COL,[Excised]_Mapiripán_Massacre_[,Guaviare,"2.55368","-72.07462",COL,"6851384",San José del Guaviare,A,ADM2,./0.png
+2.34864,48.85339,PARIS,FRA,[Excised]_Mapiripán_Massacre_[,Île-de-France,"48.85339","2.34864",FRA,"2988506",Paris,A,ADM3,./0.png
+-74.08175,4.60971,BOGOTA,COL,[Excised]_Mapiripán_Massacre_[,Bogota D.C.,"4.60971","-74.08175",COL,"3688689",Bogotá,P,PPLC,./0.png
+-74.08175,4.60971,BOGOTA,COL,[Excised]_Mapiripán_Massacre_[,Bogota D.C.,"4.60971","-74.08175",COL,"3688689",Bogotá,P,PPLC,./0.png
