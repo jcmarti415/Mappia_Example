@@ -140,6 +140,11 @@
 				<Operation type="csv">1</Operation>
 			</CustomLayer>
 			<CustomLayer>
+				<Name>GH:capital5</Name>
+				<Title>capital5</Title>
+				<Operation type="csv">1</Operation>
+			</CustomLayer>
+			<CustomLayer>
 				<Name>GH:locations_geo___points_unique</Name>
 				<Title>locations_geo___points_unique</Title>
 				<Operation type="csv">1</Operation>
