@@ -165,6 +165,11 @@
 				<Operation type="csv">1</Operation>
 			</CustomLayer>
 			<CustomLayer>
+				<Name>GH:location_20</Name>
+				<Title>location_20</Title>
+				<Operation type="csv">1</Operation>
+			</CustomLayer>
+			<CustomLayer>
 				<Name>GH:locations10</Name>
 				<Title>locations10</Title>
 				<Operation type="csv">1</Operation>
